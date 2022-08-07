@@ -23,7 +23,7 @@ create table expense(
 insert into category (codename, name, is_base_expense, aliases)
 values
     ("products", "продукты", true, "еда"),
-    ("flat", "жильё", true, "аренда, кв, квартира");
+    ("flat", "жильё", true, "аренда, кв, квартира"),
     ("internet", "интернет", true, "инет, inet"),
     ("transport", "транспорт", false, "метро, мцк, metro"),
     ("others", "прочее", false, "");
