@@ -1,0 +1,12 @@
+finance.db
+createdb_prod.sql
+**/.DS_Store
+.idea/
+**/__pycache__
+*.log
+*.pickle
+*.pid
+*.out
+.ipynb_checkpoints
+venv/
+.env
